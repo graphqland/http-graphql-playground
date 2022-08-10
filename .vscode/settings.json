@@ -23,5 +23,5 @@
   "deno.codeLens.implementations": true,
   "deno.codeLens.testArgs": [
     "--allow-all"
-  ],
+  ]
 }
